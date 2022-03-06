@@ -1,4 +1,4 @@
-## Olá! Eu sou Estevão Almeida
+## Olá! Eu sou Estevão Almeida :vulcan_salute:
  <div>
   <a href="https://github.com/rimesestevao">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rimesestevao&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
